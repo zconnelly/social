@@ -1,9 +1,9 @@
 ![3D Social Networking](https://farm9.staticflickr.com/8450/7975205041_7a5e4b65ff_t.jpg)
 
-MyName's social profile
+Zac's Social Profile
 ================
 
-Welcome to my Rendered Markdown social networking profile!
+"Hast du meine Katze gesehen?" ist mein Ästhetisch.
 
 ---
 
@@ -11,26 +11,25 @@ Welcome to my Rendered Markdown social networking profile!
 
 | Name | Date       | Message                                                   |
 |:-----|:-----------|:----------------------------------------------------------|
-| Bob  | 1970-01-01 | Hey there, I'm using Rendered Markdown social networking! |
+| Tom  | 1970-01-01 | Hey there, I'm using Rendered Markdown social networking! |
 
 ---
 
 ## Friends
 
-* [Alice](link/to/alice'/rendered-markdown-social-networking-profile)
-* [Bob](link/to/bobs/rendered-markdown-social-networking-profile)
+[![Max](https://ca.slack-edge.com/T03GQPQ5G-U1NHZ3FE2-72fa1a218110-72)](https://github.com/0bmxa/social)
 
 ---
 
 ## About me
 
-I like bananas and sometimes do sports with my cat.
+I like bananas and sometimes do sports with my cat, but sometimes not.
 
 ---
 
 ## Ads
 
-Check out my awesome project: [Some Cool Project](https://github.com/0bmxa/social-template/)
+* [Choose Wisely](http://zconnelly13.github.io/Choose-Wisely/)
 
 ---
 
