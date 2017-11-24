@@ -30,7 +30,7 @@ Hi, I'm Max and I don't like traditional social networks.
 ## Ads
 
 Check out my projects:
-* [`brewd`](https://github.com/0bmxa/brewd) a deamon for [HomeBrew](https://brew.sh)!<sup>1 ♥</sup>
+* [`brewd`](https://github.com/0bmxa/brewd) a deamon for [HomeBrew](https://brew.sh)!<sup>1♥</sup>
 
 ---
 
