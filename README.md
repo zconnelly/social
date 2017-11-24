@@ -1,6 +1,6 @@
 ![3D Social Networking](https://farm9.staticflickr.com/8450/7975205041_7a5e4b65ff_t.jpg)
 
-MyName's social profile
+mxa's social profile
 ================
 
 Welcome to my Rendered Markdown social networking profile!
@@ -9,28 +9,28 @@ Welcome to my Rendered Markdown social networking profile!
 
 ## Posts
 
-| Name | Date       | Message                                                   |
-|:-----|:-----------|:----------------------------------------------------------|
-| Bob  | 1970-01-01 | Hey there, I'm using Rendered Markdown social networking! |
+| Name | Date | Message                               |
+|:-----|:-----|:--------------------------------------|
+| –    | –    | _No messages yet. Message me via PR!_ |
 
 ---
 
 ## Friends
 
-* [Alice](link/to/alice'/rendered-markdown-social-networking-profile)
-* [Bob](link/to/bobs/rendered-markdown-social-networking-profile)
+* [Zac](https://github.com/zconnelly/social)
 
 ---
 
 ## About me
 
-I like bananas and sometimes do sports with my cat.
+Hi, I'm Max and I don't like traditional social networks.
 
 ---
 
 ## Ads
 
-Check out my awesome project: [Some Cool Project](https://github.com/0bmxa/social-template/)
+Check out my projects:
+* [`brewd`](https://github.com/0bmxa/brewd) a deamon for [HomeBrew](https://brew.sh)!
 
 ---
 
