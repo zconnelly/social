@@ -17,7 +17,7 @@ Zac's Social Profile
 
 ## Friends
 
-[![Max](https://ca.slack-edge.com/T03GQPQ5G-U1NHZ3FE2-72fa1a218110-72)](https://github.com/0bmxa/social)
+[![Max](https://avatars3.githubusercontent.com/u/15385891?s=88&v=4)](https://github.com/0bmxa/social)
 
 ---
 
